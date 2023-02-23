@@ -13,6 +13,9 @@ Also the lucid chart for same can be accessed <a href="https://lucid.app/lucidch
 
 And <a href="https://lucid.app/lucidchart/933d1b63-4088-4e7f-8a36-c8fed5c151d5/edit?viewport_loc=-105%2C76%2C1611%2C725%2C0_0&invitationId=inv_0a65ae1b-4e5e-4032-9f02-e8d1c9cf7014">here's</a> the more logical diagram for same 
 
+![image](https://user-images.githubusercontent.com/112432267/220987854-312487e6-6cfe-4705-8bcf-488e827af7d0.png)
+
+
 Also I tried creating a well architected workload for Cruddr:
 ![image](https://user-images.githubusercontent.com/112432267/220845233-f9517fd6-3e67-483b-b0b5-6ed63ee18490.png)
 
