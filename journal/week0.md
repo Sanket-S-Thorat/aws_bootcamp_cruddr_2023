@@ -9,9 +9,9 @@ Though live stream mentioned napkin drawings for this but I myself consider unfo
 
 ![rough archi](https://user-images.githubusercontent.com/112432267/220841367-ecf98fe5-a46c-4851-acc6-6306c74693ef.jpeg)
 
-And <a href="https://lucid.app/lucidchart/933d1b63-4088-4e7f-8a36-c8fed5c151d5/edit?viewport_loc=-105%2C76%2C1611%2C725%2C0_0&invitationId=inv_0a65ae1b-4e5e-4032-9f02-e8d1c9cf7014">here's</a> the more logical diagram for same 
-
 Also the lucid chart for same can be accessed <a href="https://lucid.app/lucidchart/b0cdc234-a8ad-4ea3-b8fc-93ed17c64c24/edit?viewport_loc=-46%2C-107%2C2262%2C1018%2C0_0&invitationId=inv_facc6ba2-9258-49bf-a2a7-0b2d51b8d2df">here </a>
+
+And <a href="https://lucid.app/lucidchart/933d1b63-4088-4e7f-8a36-c8fed5c151d5/edit?viewport_loc=-105%2C76%2C1611%2C725%2C0_0&invitationId=inv_0a65ae1b-4e5e-4032-9f02-e8d1c9cf7014">here's</a> the more logical diagram for same 
 
 Also I tried creating a well architected workload for Cruddr:
 ![image](https://user-images.githubusercontent.com/112432267/220845233-f9517fd6-3e67-483b-b0b5-6ed63ee18490.png)
