@@ -1,7 +1,5 @@
 # Week 1 — App Containerization
 
-# Week 1 — App Containerization
-
 This was the week of Containerization, played with docker alot. Initially most of the information during the live was beyond my understanding but I did gone through a crash course related to Docker from KodeKloud by Mumshad.
 
 The tasks carried out during this week was writing docker files for Frontend as well as Backend. Few questions which were highlighted during the live that caught my attention was 
