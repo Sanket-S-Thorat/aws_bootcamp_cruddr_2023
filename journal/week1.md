@@ -26,4 +26,6 @@ FRONTEND:
   -NOTIFICATIONS FEED
   ![image](https://user-images.githubusercontent.com/112432267/222168077-82958228-1dca-4620-a7c1-2b0d82ba1e58.png)
   
+Also, did few updates to gitpod.yml by adding few needed extensions for plsql client, yml highlighter and aws cli.
+  
  
