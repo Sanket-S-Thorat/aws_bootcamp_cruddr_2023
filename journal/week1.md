@@ -19,3 +19,13 @@ For this I did followed the additional video uploaded by Andrew for creating the
 Other Additional tasks mentioned were about adding the PLSQL and Dynamodb Local Docker container through docker compose.
 
 Honestly speaking, I was unaware till the moment about adding the PLSQL client to gitpod for using it over CLI for docker. Overall the output at the end of the weekend was something like this
+
+FRONTEND:
+
+  -HOME PAGE
+  ![image](https://user-images.githubusercontent.com/112432267/222167942-a04f7136-5735-45fc-9413-53ab1cb07910.png)
+  
+  -NOTIFICATIONS FEED
+  ![image](https://user-images.githubusercontent.com/112432267/222168077-82958228-1dca-4620-a7c1-2b0d82ba1e58.png)
+  
+ 
